@@ -176,7 +176,7 @@ If client names show as "Unknown":
 
 ## License
 
-This project is part of the FalkorDB Operations toolkit.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contributing
 
